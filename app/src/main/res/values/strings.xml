@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="my_image_desc">\"\"</string>
+</resources>
